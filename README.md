@@ -22,7 +22,7 @@ allprojects中添加
 dependencies {
 ......省略其它依赖
 
-implementation 'com.mgtv.nunaios.tabimpl:tabimpl:1.0.0-SNAPSHOT'
+implementation 'com.mgtv.nunaios.tabimpl:tabimpl:1.0.1-SNAPSHOT'
 
 }
 
